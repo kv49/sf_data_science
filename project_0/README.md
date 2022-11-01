@@ -39,7 +39,8 @@ Learning how to write good Python code
 :arrow_up:[to Index](https://github.com/kv49/sf_data_science/tree/main/project_0/README.md#Index)
 
 ### Results:
-.....
+
+Exit criteria with less than 20 tries is achieved
 
 :arrow_up:[to Index](https://github.com/kv49/sf_data_science/tree/main/project_0/README.md#Index)
 
