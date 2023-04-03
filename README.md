@@ -1,4 +1,4 @@
-# My Data Science projects
+# From SkillFactory Python course
 
 From the [SkillFactory Data Science course](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+URFUML22p1s+SEP2022/)
 
